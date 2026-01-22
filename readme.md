@@ -141,7 +141,7 @@ The system conservatively extracts **only syntactically valid atomic claims**, p
 
 ### Step 1: Clone the Repository
 ```bash
-git clone <repository-url>
+git clone <[repository-url](https://github.com/rihandMishra/Verifacts.git)>
 cd VeriFacts-Health
 ```
 
@@ -189,6 +189,7 @@ ollama pull mistral
 ```bash
 python claim_decomposer.py
 ```
+
 
 
 
