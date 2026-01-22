@@ -1,0 +1,11 @@
+id,text,label,language,domain,source
+1,Doctors won’t tell you this but vaccines cause autism in children.,fake,en,vaccination,synthetic
+2,COVID vaccines affect fertility in women and men.,fake,en,vaccination,synthetic
+3,Turmeric can completely cure diabetes without medicine.,fake,en,nutrition,synthetic
+4,पोलियो की दवा बच्चों के लिए खतरनाक है।,fake,hi,vaccination,synthetic
+5,घरेलू नुस्खों से कैंसर पूरी तरह ठीक हो सकता है।,fake,hi,disease,synthetic
+6,Vaccines are safe and effective in preventing infectious diseases.,real,en,vaccination,govt
+7,COVID-19 vaccines do not affect fertility according to medical studies.,real,en,vaccination,govt
+8,Regular exercise and diet help manage diabetes but do not cure it.,real,en,nutrition,govt
+9,टीके बच्चों को गंभीर बीमारियों से बचाने में मदद करते हैं।,real,hi,vaccination,govt
+10,कैंसर के इलाज के लिए डॉक्टर की सलाह आवश्यक है।,real,hi,disease,govt
