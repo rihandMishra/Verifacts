@@ -189,6 +189,11 @@ ollama pull mistral
 ```bash
 python claim_decomposer.py
 ```
+### Step 10: Example demo
+'''bash
+python verifacts_cli.py --example
+'''
+
 
 
 
