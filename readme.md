@@ -185,14 +185,12 @@ python qdrant_query.py
 ollama pull mistral
 ```
 
-### Step 9: Run the Full Pipeline (Optional)
+### Step 9: Example demo
 ```bash
-python claim_decomposer.py
-```
-### Step 10: Example demo
-'''bash
 python verifacts_cli.py --example
-'''
+```
+
+
 
 
 
